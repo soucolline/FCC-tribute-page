@@ -1,4 +1,25 @@
 /* --- MEDIA QUERIES FOR XS --- */
 @media screen and (max-width: 768px) {
-    h1 { font-size: 40px; }
+    h1 {
+      font-size: 34px;
+      margin-top: 30px;
+    }
+
+    .text {
+      margin-left: 15px;
+      margin-right: 15px;
+
+      margin-top: 45px;
+      font-size: 14px;
+      line-height: 20px;
+    }
+
+    .quote {
+      margin-left: 15px;
+      margin-right: 15px;
+
+      font-size: 18px;
+      line-height: 18px;
+      margin-top: 45px;
+    }
 }
