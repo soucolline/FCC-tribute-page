@@ -1,2 +1,4 @@
+.gitignore
+.sass-cache
 DA
 email_save
