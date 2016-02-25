@@ -6,7 +6,8 @@ div[class^="col-"] {
 
 .light-italic {
   font-family: "Roboto", sans-serif;
-  font-weight: 300;
+  font-weight: 100;
+  font-style: italic;
 }
 
 .cover {
@@ -31,14 +32,16 @@ h2 {
 .text {
   font-size: 20px;
   font-family: "Open Sans", sans-serif;
+  font-weight: 400;
   line-height: 34px;
-
   margin-top: 60px;
 }
 
 .quote {
   font-size: 25px;
   font-family: "Roboto", sans-serif;
+  font-style: italic;
+  font-weight: 100;
   line-height: 33px;
   margin-top: 57px;
 }
